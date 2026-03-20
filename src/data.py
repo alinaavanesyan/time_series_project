@@ -1,5 +1,3 @@
-"""Загрузка и подготовка данных M4 Monthly."""
-
 import numpy as np
 import pandas as pd
 from datasetsforecast.m4 import M4

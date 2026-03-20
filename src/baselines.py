@@ -1,5 +1,3 @@
-"""Статистические бейзлайны: Naive, SeasonalNaive, AutoTheta, AutoETS."""
-
 import pandas as pd
 from statsforecast import StatsForecast
 from statsforecast.models import Naive, SeasonalNaive, AutoTheta, AutoETS
