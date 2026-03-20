@@ -37,7 +37,7 @@ M4 Monthly — 150 случайных рядов (seed=42), горизонт h=1
 │   └── patchtst_model.py      # PatchTST
 └── results/
     ├── analysis_results.ipynb # визуализация и анализ
-    └── report.pdf             # итоговый отчёт
+    └── Avanesyan_HW3_report.pdf # итоговый отчёт
 ```
 
 Вообще исходно весь код я написала в analysis_results.ipynb, а затем разбила его по блокам, поэтому в тетрадке можно увидеть весь пайплайн с комментариями и визуализациями.
